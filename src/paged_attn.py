@@ -4,3 +4,9 @@
 class BlockAllocator:
     pass
 
+
+# Enhancement entry 13
+# PagedAttention block allocator
+class BlockAllocator:
+    pass
+
